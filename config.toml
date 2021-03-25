@@ -1,5 +1,5 @@
 title = "DFW Divisórias"
-baseURL = "https://6056ef6f44d1630008571fb6--amazing-wright-f4e27d.netlify.app"
+baseURL = "https://dfw-divisorias.netlify.app"
 languageCode = "pt"
 theme = "ananke"
 resourceDir = "../resources"
