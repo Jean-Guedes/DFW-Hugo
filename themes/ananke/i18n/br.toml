@@ -2,13 +2,13 @@
 other = "Mais"
 
 [allTitle]
-other = "Todo o {{.Title }}"
+other = "Todos os {{.Title }}"
 
 [recentTitle]
-other = "{{.Title }} Recentes"
+other = "Recente {{.Title }}"
 
 [readMore]
-other = "Leia mais"
+other = "leia mais"
 
 [whatsInThis]
 other = "O que há neste {{ .Type }}"
@@ -17,10 +17,10 @@ other = "O que há neste {{ .Type }}"
 other = "Relacionado"
 
 [yourName]
-other = "O seu nome"
+other = "Seu Nome"
 
 [emailAddress]
-other = "Endereço de e-mail"
+other = "Endereço de Email"
 
 [message]
 other = "Mensagem"

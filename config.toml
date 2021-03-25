@@ -1,17 +1,17 @@
 title = "DFW Divisórias"
 baseURL = "https://6056ef6f44d1630008571fb6--amazing-wright-f4e27d.netlify.app"
-languageCode = "pt-br"
+languageCode = "pt"
 theme = "ananke"
 resourceDir = "../resources"
 
-DefaultContentLanguage = "br"
+DefaultContentLanguage = "pt"
 SectionPagesMenu = "main"
 Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = ""
 enableRobotsTXT = true
 
 [languages]
-  [languages.br]
+  [languages.pt]
     title = "DFW Divisórias"
     weight = 1
     contentDir = "content"
@@ -24,7 +24,7 @@ enableRobotsTXT = true
 [params]
   favicon = "/images/favicon.ico"
   site_logo = "/images/logo.png"
-  description = "The last theme you'll ever need. Maybe."
+  description = "DFW Divisórias"
   facebook = ""
   twitter = "https://twitter.com/GoHugoIO"
   instagram = ""
