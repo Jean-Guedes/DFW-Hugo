@@ -1,9 +1,7 @@
 ---
 title: Contato
 featured_image: "images/banner.jpg"
-omit_header_text: true
-description: We'd love to hear from you
-type: page
+description: Converse conosoco
 menu: main
 
 ---
